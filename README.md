@@ -18,7 +18,7 @@ git clone https://github.com/CSingh26/Project-2-BreastCancerPrediction
 
 2. Navigate to the project directory:
 
-3. Install the required libraries:
+3. Install the required libraries:<br>
 pip install -r requirements.txt
 
 ## Dataset

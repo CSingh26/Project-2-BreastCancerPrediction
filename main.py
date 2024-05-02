@@ -19,7 +19,7 @@ data = pd.read_csv('data/data.csv')
 print(data.head())
 print(data.info())
 
-#cleaning the dataset
+#Cleaning the dataset
 # Drop unnecessary columns and convert the diagnosis column to binary labels
 data.drop('Unnamed: 32', axis=1, inplace=True)
 data.drop('id', axis=1, inplace=True)
